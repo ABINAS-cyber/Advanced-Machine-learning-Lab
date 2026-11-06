@@ -1,0 +1,11 @@
+
+"""
+Patient Name: Abinas Dash
+Test Date: 10/07/2026
+
+INVESTIGATION RESULTS:
+1. Hemoglobin (Hb): 14.2 g/dL (Normal: 13.0 - 17.0)
+2. Total WBC Count: 7,500 cells/mcL (Normal: 4,000 - 11,000)
+3. Platelet Count: 250,000 cells/mcL (Normal: 150,000 - 450,000)
+4. Fasting Blood Sugar: 92 mg/dL (Normal: 70 - 99)
+5. Serum Cholesterol: 180 mg/dL (Normal: Desirable < 200) """
